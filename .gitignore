@@ -114,9 +114,10 @@ dist
 # TernJS port file
 .tern-port
 
-#union_web
-.node_modules
-#wo_koa
-.public/
+#web
+.starmovie/node_modules
+#express
+.starmovieserve/public/
+.starmovieserve/node_modules/
 #java jar
 
